@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81314542055",
+    "project_id": "chama-b902f",
+    "storage_bucket": "chama-b902f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81314542055:android:35c79c3b93cbe958040d42",
+        "android_client_info": {
+          "package_name": "com.chamaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81314542055-okh4ibphcc1s66bgg0ppg9o602d82chb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR8Xs6TUOLn4xvHkDGa5FCU0h3VAglHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81314542055-okh4ibphcc1s66bgg0ppg9o602d82chb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
